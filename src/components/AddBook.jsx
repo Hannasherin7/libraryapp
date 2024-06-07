@@ -4,6 +4,7 @@ import { NavBar } from './NavBar'
 export const AddBook = () => {
   return (
     <div>
+        <h1><center>ADD BOOK DETAILS</center></h1>
         <NavBar></NavBar>
         <div className="container">
             <div className="row">
